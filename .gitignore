@@ -1,0 +1,8 @@
+*.dll
+*.csproj
+*.xml
+*.config
+*.cache
+*.storageide
+*.so
+*.dylib
